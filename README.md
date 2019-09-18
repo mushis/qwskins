@@ -11,15 +11,15 @@ The difference is that you can contribute right here. Feel free to create new sk
 Send new skins to mushi (or use git), they will be uploaded here.
 
 # content
-/SKINS -> main repository. place this under your quake folder, quake/qw/skins
+##/SKINS -> main repository. place this under your quake folder, quake/qw/skins
 
-/fte -> skins for FTE, allow different colors to be given to pants and shirts
+##/fte -> skins for FTE, allow different colors to be given to pants and shirts
 
-/new Player Model -> skins for this new player model
+##/new Player Model -> skins for this new player model
 
-/old -> a couple of older skins
+##/old -> a couple of older skins
 
-/sets -> sets of skins to be used by your team
+##/sets -> sets of skins to be used by your team
 
-
-Credit goes to Link and Mushi
+# credits
+Credit goes to Link and Mushi, Primevil and all other skins creators
