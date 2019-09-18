@@ -11,7 +11,8 @@ The difference is that you can contribute right here. Feel free to create new sk
 Send new skins to mushi (or use git), they will be uploaded here.
 
 # content
-## /SKINS -> main repository. place this under your quake folder, quake/qw/skins
+### /SKINS 
+main repository. place this under your quake folder, quake/qw/skins
 
 ## /fte -> skins for FTE, allow different colors to be given to pants and shirts
 
