@@ -29,9 +29,12 @@ Eventually some of these skins will get uploaded to https://gfx.quakeworld.nu/ f
 
 # problem?
 Documentation: http://ezquake.sourceforge.net/docs/?player-skins
+
 **Can't see a skin in the game, even though your friend has it set?**
 - do you have it on your quake/qw/skins folder? there must be a file there, with the same name as the skin you want to see.
+
 - have you set  */teamskin* and */enemyskin* to ""? these commands must be set to empty, or else your client will force the usage of a skin, and you will not see individual skins
+
 **I want to use the sets for the enemies, but i can't see the different skins!**
 - make sure the e1-e4 skin files are on quake/qw/skins and that you have set */enemyforceskin 3*. 
 - the equivalent for sets for the teammates
