@@ -5,10 +5,11 @@ The value 3 will automatically assign skins to your teammates / enemies, **so yo
 Details on http://ezquake.sourceforge.net/docs/?player-skins
 
 **Usage:**
-choose the set that you like. You can choose one for teammates and/or other for enemies. copy the skins files to your quake/qw/skins folder. 
-In the game, set */enemyforceskin 3* to set the e1-e4 skins to be assigned to your enemy
+choose the set that you like. You can choose one for teammates and/or other for enemies. copy the the chosen set skins files to your quake/qw/skins folder. 
 
- set */teamforceskin 3* to set the t1-t4 skins to be assigned to your teammates!
+ In the game, set */enemyforceskin 3* to set the e1-e4 skins to be assigned to your enemy
+
+ set */teamforceskin 3* to set the t1-t4 skins to be assigned to your teammates
 
 The game is expecting the following skin files under quake/qw/skins to work with */enemyforceskin 3*:
 
