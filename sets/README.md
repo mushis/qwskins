@@ -1,11 +1,33 @@
 # Sets of skins
-To be used with EzQuake's /teamforceskin and /enemyforceskin
+A set of skins is composed by at least 4 individual skins. To be used with EzQuake's /teamforceskin and /enemyforceskin - these commands will automatically assign a skin to your teammates / enemies, so you can distinguish them during the game.
+
 Details on http://ezquake.sourceforge.net/docs/?player-skins
 
-Usage: choose your set (download all skins from that set) and rename them to the following:<br /> 
-the set will work as your teamskin: rename the files to t1 t2 t3 t4
-the set will work as your enemyskin: rename the files to e1 e2 e3 e4
-and place them in your /quake/qw/skins folder
+**Usage:**
+Place the skins in your quake/qw/skins folder
+
+
+Make sure the skin files have the following names:
+
+*for enemies:*
+
+e1 
+
+e2 
+
+e3
+
+e4
+
+*for teammates:*
+
+t1
+
+t2
+
+t3
+
+t4
 
 
 
