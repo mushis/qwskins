@@ -20,7 +20,7 @@ Send new skins to mushi (or use git features), they will be uploaded here, and o
 all the skins in /SKINS
 
 ### /SKINS 
-main repository. place this under your quake folder, quake/qw/skins and you will be able to see other players skins
+main repository. individual skins are here.
 
 ### /sets
 sets of skins to be used by yourself or your team
