@@ -4,6 +4,9 @@ The value 3 will automatically assign skins to your teammates / enemies, **so yo
 
 Details on http://ezquake.sourceforge.net/docs/?player-skins
 
+
+![sets of skins to be used in teamgames](https://github.com/mushis/qwskins/blob/master/sets/overview.png)
+
 **Usage:**
 choose the set that you like. You can choose one for teammates and/or other for enemies. copy the the chosen set skins files to your quake/qw/skins folder. 
 

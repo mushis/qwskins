@@ -4,11 +4,16 @@ Skins for the Quake multiplayer community. Because *beautiful skins don't need t
 New and old skins, for both the new and regular player model.
 
 choose a skin for you or your team! make your own, oh and how about distinguising enemies during the game? You got it right here.
+![Overview screenshot. Most skins are not shown!](https://github.com/mushis/qwskins/blob/master/welcome.png)
 
 # usage
-Download ***skins.pk3*** and place it on your *quake/qw*. 
+Option 1) Download ***skins.pk3*** and place it on your *quake/qw*. 
 Use as your own skin, as a teammate or enemy skin (`/teamskin` or `/enemyskin`). If other players have the skin you're using, they'll see it in the game (as long as they set `/teamskin` or `/enemyskin` to `""` - empty).
 To list all the skins you have in the game, type in the console `/fs_dir skins`
+
+Option 2) Download everything. Click on the green button.
+
+Option 3) Download the sets to use in teamgames
 
 # contribute
 Feel free to create new skins (we recommend using Primevil ones, see  https://gfx.quakeworld.nu/browse/skins/). We encourage you to do it. For your team, your teammate, your neighbour!
