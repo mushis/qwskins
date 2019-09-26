@@ -1,0 +1,1 @@
+Original skins of USA clan American Gangsters, renamed to be used as teamskins
