@@ -8,6 +8,7 @@ choose a skin for you or your team! make your own, oh and how about distinguishi
 
 # usage
 instructions for "skin sets" on its own directory. Instructions for general usage skins:
+
 Option 1) Download ***skins.pk3*** and place it on your *quake/qw*. 
 
 Option 2) Download everything. Click on the green button.
