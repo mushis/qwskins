@@ -3,7 +3,7 @@ Skins for the Quake multiplayer community. Because *beautiful skins don't need t
 
 New and old skins, for both the new and regular player model.
 
-choose a skin for you or your team! make your own, oh and how about distinguising enemies during the game? You got it right here.
+choose a skin for you or your team! make your own, oh and how about distinguishing enemies during the game? You got it right here.
 ![Overview screenshot. Most skins are not shown!](https://github.com/mushis/qwskins/blob/master/welcome.png)
 
 # usage
