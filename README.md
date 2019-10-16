@@ -15,6 +15,8 @@ Option 2) Download everything. Click on the green button.
 
 Option 3) Download the sets to use in teamgames
 
+Option 4) get a zip here (might not be up to date): https://gfx.quakeworld.nu/details/494/skin-pak-by-link-and-friends/
+
 # contribute
 Feel free to create new skins (we recommend using Primevil ones, see  https://gfx.quakeworld.nu/browse/skins/). We encourage you to do it. For your team, your teammate, your neighbour!
 
@@ -38,7 +40,7 @@ skins for the "new player model"
 
 # credits
 Credit goes to Link and Mushi, Primevil and all other skins creators
-Eventually some of these skins will get uploaded to https://gfx.quakeworld.nu/ for convenience.
+These skins are on https://gfx.quakeworld.nu/ for convenience, but it might not be up to date.
 
 # problem?
 Documentation: http://ezquake.sourceforge.net/docs/?player-skins
