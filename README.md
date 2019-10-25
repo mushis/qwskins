@@ -7,9 +7,9 @@ choose a skin for you or your team! make your own, oh and how about distinguishi
 ![Overview screenshot. Most skins are not shown!](https://github.com/mushis/qwskins/blob/master/welcome.png)
 
 # usage
+instructions for "skin sets" on its own directory. Instructions for general usage skins:
+
 Option 1) Download ***skins.pk3*** and place it on your *quake/qw*. 
-Use as your own skin, as a teammate or enemy skin (`/teamskin` or `/enemyskin`). If other players have the skin you're using, they'll see it in the game (as long as they set `/teamskin` or `/enemyskin` to `""` - empty).
-To list all the skins you have in the game, type in the console `/fs_dir skins`
 
 Option 2) Download everything. Click on the green button.
 
@@ -17,10 +17,13 @@ Option 3) Download the sets to use in teamgames
 
 Option 4) get a zip here (might not be up to date): https://gfx.quakeworld.nu/details/494/skin-pak-by-link-and-friends/
 
+Use as your own skin, as a teammate or enemy skin (`/teamskin` or `/enemyskin`). If other players have the skin you're using, they'll see it in the game (as long as they set `/teamskin` or `/enemyskin` to `""` - empty).
+To list all the skins you have in the game, type in the console `/fs_dir skins`
+
 # contribute
 Feel free to create new skins (we recommend using Primevil ones, see  https://gfx.quakeworld.nu/browse/skins/). We encourage you to do it. For your team, your teammate, your neighbour!
 
-Send new skins to mushi (or use git features), they will be uploaded here, and others can get them.
+Send new skins to mushi (or use git), they will be uploaded here, and others can get them.
 
 # content
 ### skins.pk3
@@ -30,7 +33,7 @@ all the skins in /SKINS
 main repository. individual skins are here.
 
 ### /sets
-sets of skins to be used by yourself or your team
+sets of skins to be used as teamskins and/or enemyskins. instructions on usage there.
 
 ### /fte 
 a skin for FTE, allow RGB colors to be given to pants and shirts
