@@ -1,7 +1,7 @@
 # FTE skins
 This skin allows different shirt and short colors. As of 2019, can only be used with DarkPlaces and FTE (and qRack, as i've been told).
 
-## how to use?
+## how to use in FTE?
 */teamskin highres*
 
 */enemyskin highres*
