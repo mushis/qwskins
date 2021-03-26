@@ -2,12 +2,17 @@
 This skin allows different shirt and short colors. As of 2019, can only be used with DarkPlaces and FTE (and qRack, as i've been told).
 
 ## how to use?
-'/teamskin highres'
-'/enemyskin highres'
-then set '/enemycolor' and '/teamcolor' to your desire (see below)
+*/teamskin highres*
+
+*/enemyskin highres*
+
+then set */enemycolor*  and */teamcolor* to your desire (see below)
+
 
 you can also set your own color (for your player model). Example:
+
 color 0x00ff00 0xff00ff
+
 this will set your top colour to green and your lower colour to magenta
 
 ## how to choose colors?
